@@ -1,0 +1,1 @@
+"C:\Program Files\PsychoPy\python.exe" "C:\Share\noise_exp\test_noise.py"
